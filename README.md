@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Mucyo Joel 👋
 
-<!--
-**mujoel/mujoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer specializing in Machine Learning & Full-Stack Development
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent applications with a focus on deep learning implementations. My interests span across full-stack development, mobile applications, and machine learning systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 AI/ML Focus
+I'm particularly interested in deep learning applications and constantly exploring new architectures and techniques to solve complex problems.
+
+### 💻 Tech Stack
+- Languages: Python, Java, JavaScript, C, C++, Kotlin, Dart
+- Frontend: React, Vue.js, HTML/CSS
+- Backend: Node.js, Django, Spring Boot
+- Mobile: Kotlin, Dart (Flutter)
+- Databases: Oracle, MySQL, MongoDB
+- ML/DL: TensorFlow, PyTorch, Scikit-learn
+
+### 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 📫 How to reach me:
+- Email:mucyojoel505@gmail.com
+
+### 🌱 I'm currently learning
+- Advanced deep learning architectures
+- 
