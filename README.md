@@ -23,4 +23,4 @@ I'm particularly interested in deep learning applications and constantly explori
 
 ### 🌱 I'm currently learning
 - Advanced deep learning architectures
-- 
+  
